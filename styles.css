@@ -1,3 +1,24 @@
+.sikyu{
+  background-color: rgb(2, 241, 2);
+ 
+}
+.anda{
+  background-color: rgb(255, 82, 82);
+ 
+}
+.out{
+  background-color: rgb(220, 220, 220);
+ 
+}
+.homerun{
+  background-color: gold;
+  
+}
+.san{
+  background-color: rgb(146, 146, 255);
+}
+
+
 .tab-wrap {
 	background: White;
 	box-shadow: 0 0 5px rgba(0,0,0,.1);
